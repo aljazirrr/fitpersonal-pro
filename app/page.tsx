@@ -1,5 +1,5 @@
 'use client'
-import BodyMetricsChart from '@/components/BodyMetricsChart'
+
 import { useEffect, useMemo, useState } from 'react'
 import { supabase } from '@/lib/supabase'
 import {
